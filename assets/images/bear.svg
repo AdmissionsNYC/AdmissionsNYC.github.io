@@ -1,0 +1,4 @@
+---
+layout: none
+---
+{% include svg/bear.svg %}

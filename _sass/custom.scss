@@ -1,3 +1,51 @@
 /* start custom scss snippet */
+.header__brand {
+  & > a {
+    font-weight: map-get($base, font-weight-bold);
+  }
+}
 
+form {
+  display: block;
+  max-width: 400px;
+  padding-bottom: 20px;
+  & > label {
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  & > input {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    min-height: 34px;
+	padding: 6px 8px;
+	line-height: 20px;
+	border: 1px solid $text-color-theme-light-l;
+	border-radius: 3px;
+	outline: none;
+  }
+  & > button {
+    display: inline-block;
+    padding: 6px 12px;
+    color: $text-color-1;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: $main-color-1;
+    border: 1px solid $main-color-1;
+    border-radius: 3px;
+    transition: .2s;
+    appearance: none;
+  }
+}
+
+.bear {
+  display: block;
+  max-width: 400px !important;
+  margin: {
+      left: auto;
+      right: auto;
+  };
+}
 /* end custom scss snippet */
