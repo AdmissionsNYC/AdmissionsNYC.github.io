@@ -1,10 +1,12 @@
 <!-- start custom main bottom snippet -->
+{%- unless page.id -%}
 <h3>Schedule a free consultation</h3>
 <form action="{{ site.form-end }}">
   <label>Student's Name:</label>
   <input type="text" name="name"/>
   <label>Student's Email:</label>
   <input type="text" name="email"/>
-  <button type="submit">Send</button>
+  <button type="submit" class="button button--primary button--rounded">Send</button>
 </form>
+{%- endunless -%}
 <!-- end custom main bottom snippet -->

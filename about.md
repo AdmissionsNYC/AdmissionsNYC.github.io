@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![Image of bear]({{ site.url }}{{ site.path }}/assets/images/bear.svg){:.bear}
+![Image of bear]({{ '/assets/images/bear.svg' | absolute_url }}){:.image .image--xl .mx-auto .icon}
 
 Welcome to ReachWell, your number one source for graduate admissions. We're dedicated to helping you follow your dreams.
 

@@ -16,27 +16,15 @@ form {
   }
   & > input {
     display: block;
+    background-color: $main-color-3;
     width: 100%;
     margin-bottom: 20px;
     min-height: 34px;
 	padding: 6px 8px;
 	line-height: 20px;
-	border: 1px solid $text-color-theme-light-l;
+	border: 1px solid $text-color-3;
 	border-radius: 3px;
 	outline: none;
-  }
-  & > button {
-    display: inline-block;
-    padding: 6px 12px;
-    color: $text-color-1;
-    white-space: nowrap;
-    vertical-align: middle;
-    cursor: pointer;
-    background-color: $main-color-1;
-    border: 1px solid $main-color-1;
-    border-radius: 3px;
-    transition: .2s;
-    appearance: none;
   }
 }
 

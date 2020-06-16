@@ -1,12 +1,23 @@
 ---
 title: Graduate Admissions Consulting
-layout: page
+layout: article
+excerpt: >
+    We help students from around the world get into graduate programs in the United States
+mode: immersive
+header:
+    theme: dark
+article_header:
+    type: overlay
+    theme: dark
+    background_color: '#402a40'
+    background_image:
+        gradient: 'linear-gradient(135deg, rgba(28, 40, 62, .4), rgba(171, 101, 93, .4))'
+        src: /assets/images/night.jpg
 ---
 
-ReachWell provides graduate admissions consulting to talented students from around the world seeking admissions to highly selective masters and doctoral programs in the United States. Our experienced counselors are insiders – top PhD students with a proven track record of successful applications and admissions coaching.
-
-
 ## What we provide
+
+ReachWell provides graduate admissions consulting to talented students from around the world seeking admissions to highly selective masters and doctoral programs in the United States. Our experienced counselors are insiders – top PhD students with a proven track record of successful applications and admissions coaching.
 
 Students receive personalized one-on-one assistance based on their goals and needs. We typically work with students pursing interested in a MA, MS, MBA, or PhD. We frequently help with the following:
 

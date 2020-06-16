@@ -23,3 +23,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+  - titles:
+      # @start locale config
+      en      : &EN       Updates
+      # @end locale config
+    url: /updates/
