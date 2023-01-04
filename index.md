@@ -1,8 +1,8 @@
 ---
-title: Graduate Admissions Consulting
+title: admissions Consulting
 layout: article
 excerpt: >
-    We help students from around the world get into graduate programs in the United States
+    We help students in New York City get into top universities for undergraduate and graduate programs in the United States
 mode: immersive
 header:
     theme: dark
@@ -17,17 +17,17 @@ article_header:
 
 ## What we provide
 
-ReachWell provides graduate admissions consulting to talented students from around the world seeking admissions to highly selective masters and doctoral programs in the United States. Our experienced counselors are insiders – top PhD students with a proven track record of successful applications and admissions coaching.
+Admissions NYC provides admissions consulting to talented students in New York City seeking admissions to highly selective undergraduate, masters, and doctoral programs in the United States. Our experienced counselors are insiders -- elite graduates and teachers with a proven track record of successful applications and admissions coaching.
 
-Students receive personalized one-on-one assistance based on their goals and needs. We typically work with students pursing interested in a MA, MS, MBA, or PhD. We frequently help with the following:
+Students receive personalized one-on-one assistance based on their goals and needs. We typically work with students pursing interested in a Bachelors, MA, MS, MBA, or PhD. We frequently help with the following:
 
-* Statement of purpose
-* Program selection and strategy
+* Common App essay
+* SAT, TOEFL, GMAT, and GRE preparation
 * Resume writing and revision
-* TOEFL and GRE preparation
+* Program selection and strategy
 * Application review
 * Interview preparation
-* Other essays including diversity statements
+* Other essays including supplements, statements of purpose, and diversity statements
  
 ## Free consultation
 
